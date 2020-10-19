@@ -4,7 +4,8 @@ NYU Shanghai Fall 2019
 
 __Note:__ The training and model files were too large to upload to GitHub, so they can be found here instead — [Story Maps Google Folder](https://drive.google.com/drive/folders/1LsG5-jHpRSwSQOoFk4m_hSbBvp7hwdaR?usp=sharing)  
 
-<img src="readme-images/withbrowser.png" width="500">
+<img src="readme-images/1.png" width="500">
+<img src="readme-images/2.png"  width="500">
 
 ### Concept
 A machine learning powered tool for creative writing.
@@ -52,9 +53,6 @@ Once I had my model, I wanted to use it in conjunction with ml5’s charRNN and 
 The outcome was somewhat of a broken predictive text application, because my model was also not as advanced as I hoped it would be. I was not able to use my more robust models because they were so big that they made the page lag noticeably. This was disappointing because the larger models were more accurate and produced actual words, where as the smaller models were faster but less coherent.
 
 In terms of interface, I wanted to design a more aesthetically pleasing version of hugging face transformers. So I kept the central text box area, but made it smaller (and resizable). I also used a black, white and gray color scheme. In the background of the page I added a particle system. Initially, I wanted the particle system to update every time text was entered into the text area, so that you would see a word map of what you had written develop as you write. I thought this was a nice nod to the idea of building meaning and semantic association, as well as the RNN framework that the model looped through. However, I had to make the particles into ellipses because the text caused a lot of lag and freezing.
-
-
-<img src="readme-images/typing.png"  width="500">
 
 ### Challenges
 
