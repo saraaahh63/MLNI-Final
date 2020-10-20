@@ -1,6 +1,6 @@
 ## Story Maps
 Machine Learning for New Interfaces Final Project  
-NYU Shanghai Fall 2019  
+NYU Shanghai Fall 2019
 
 __Note:__ The training and model files were too large to upload to GitHub, so they can be found here instead — [Story Maps Google Folder](https://drive.google.com/drive/folders/1LsG5-jHpRSwSQOoFk4m_hSbBvp7hwdaR?usp=sharing)  
 
